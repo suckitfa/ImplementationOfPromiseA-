@@ -1,0 +1,23 @@
+{
+    "name": "implementationofpromisea-",
+    "version": "1.0.0",
+    "description": "",
+    "main": "MyPromise.js",
+    "scripts": {
+        "test": "promieses-aplus-tests MyPromise"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/suckitfa/ImplementationOfPromiseA-.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/suckitfa/ImplementationOfPromiseA-/issues"
+    },
+    "homepage": "https://github.com/suckitfa/ImplementationOfPromiseA-#readme",
+    "devDependencies": {
+        "promises-aplus-tests": "^2.1.2"
+    }
+}
