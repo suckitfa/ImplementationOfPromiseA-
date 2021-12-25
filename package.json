@@ -4,7 +4,7 @@
     "description": "",
     "main": "MyPromise.js",
     "scripts": {
-        "test": "promieses-aplus-tests MyPromise"
+        "test": "promises-aplus-tests MyPromise"
     },
     "repository": {
         "type": "git",
